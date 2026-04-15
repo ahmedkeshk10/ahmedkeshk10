@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @ahmedkeshk10
-- 👀 I’m interested in digital marketing and coding
-- 🌱 I’m currently learning html and wordpress
-- 💞️ I’m looking to collaborate on e-learning project
-- 📫 How to reach me by gmail: ahmed.keshk2021@feps.edu.eg
+# الإدارة العامة للتنمية المستدامة
 
-<!---
-ahmedkeshk10/ahmedkeshk10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+موقع تعريفي متكامل باللغة العربية خاص بـ **الإدارة العامة للتنمية المستدامة**، ويعرض:
+
+- نبذة عن الإدارة.
+- الرؤية والرسالة والقيم.
+- الإدارات التابعة.
+- المشروعات والمبادرات.
+- الخدمات الإلكترونية.
+- الأخبار والإعلانات.
+- نموذج تواصل مباشر.
+
+## التشغيل
+
+افتح ملف `index.html` مباشرة في المتصفح.
+
+## الملفات
+
+- `index.html` : هيكل الموقع.
+- `styles.css` : تنسيقات وتصميم الواجهة.
+- `script.js` : التفاعلات البسيطة (القائمة على الموبايل + نموذج التواصل).
